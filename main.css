@@ -1,9 +1,5 @@
-background-color{
-    color:#2C3E50;
-}
-button{
+body{
+    background-color: #CCD1D1;
     text-decoration: none;
-}
-li{
-    text-decoration: none;
+    text-decoration-color: none;
 }
