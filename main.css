@@ -52,3 +52,13 @@ div {
     width: 800px;
     margin: auto;
 }
+
+button{
+    text-decoration: none;
+    color: white;
+}
+
+.banner{
+    width: 100%;
+    display: block;
+}
