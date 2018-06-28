@@ -58,7 +58,11 @@ button{
     color: white;
 }
 
-.banner{
+/*.banner{
     width: 100%;
     display: block;
+}*/
+
+p a:link{
+    text-decoration: none;
 }
