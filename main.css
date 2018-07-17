@@ -1,5 +1,6 @@
 body{
     background-color: #CCD1D1;
+    margin: 0;
 }
 
 h1{
@@ -60,4 +61,21 @@ button{
 
 img {
     width: 100%;
+}
+.course-image{
+    size: 50%;
+    width: 50%
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 0%;
+    display: block; 
 }
